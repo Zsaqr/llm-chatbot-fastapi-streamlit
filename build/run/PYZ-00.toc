@@ -1,0 +1,409 @@
+('D:\\Tasks\\Llm-Chatbot\\build\\run\\PYZ-00.pyz',
+ [('_compat_pickle',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('numbers',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
+   'PYMODULE'),
+  ('statistics',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'c:\\Users\\ZIAD '
+   'SAQR-O\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE')])
